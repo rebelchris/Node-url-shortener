@@ -1,0 +1,22 @@
+{
+  "name": "node-url-shortener",
+  "version": "1.0.0",
+  "description": "Url shortener build in node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rebelchris/Node-url-shortener.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rebelchris/Node-url-shortener/issues"
+  },
+  "homepage": "https://github.com/rebelchris/Node-url-shortener#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
