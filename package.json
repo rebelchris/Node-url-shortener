@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/rebelchris/Node-url-shortener#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "azure-storage": "^2.10.3",
+    "express": "^4.17.1",
+    "shortid": "^2.2.15"
   }
 }
